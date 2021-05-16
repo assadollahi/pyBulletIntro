@@ -8,6 +8,8 @@ The URDF files don't have .obj files in them nor do they contain images and text
 Thus, they are easily human readable which is the whole goal of this repo. 
 
 Here's what you get:
+
+
 [![](http://img.youtube.com/vi/UqWcz4s8a7Y/0.jpg)](http://www.youtube.com/watch?v=UqWcz4s8a7Y "pyBulletIntro")
 
 ## Getting Started
